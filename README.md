@@ -40,6 +40,7 @@ This project presents an enterprise-grade dual-target vulnerability assessment e
 * **Credential & Daemon Lifecycle:** Deployed GVM administrative service tokens, established socket binds, and mapped user feed ownership.
 
 ## Project Deliverables & Reports
-* [Comprehensive VAPT Report (DOCX)](docs/VAPT-NIST-01_kamalpreetSingh.docx)
+* [Comprehensive VAPT Report (PDF - Direct Preview)](docs/VAPT-NIST-01_kamalpreetSingh.pdf)
+* [Comprehensive VAPT Report (Editable DOCX)](docs/VAPT-NIST-01_kamalpreetSingh.docx)
 * [Metasploitable Linux Full Scan Report (PDF)](docs/OpenVAS_Report_Metasploitable.pdf)
 * [Windows Server 2022 Full Scan Report (PDF)](docs/OpenVAS_Report_Windows_2022_Server.pdf)
